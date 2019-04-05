@@ -8,6 +8,13 @@
 # dependencies
 /node_modules
 
+.vscode
+bin
+obj
+
+#db
+*.db
+
 # IDEs and editors
 /.idea
 .project
